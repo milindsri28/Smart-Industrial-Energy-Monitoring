@@ -596,7 +596,7 @@ const developerProfile = {
 ### **License**
 ```
 MIT License - Open source and free for commercial use
-Copyright (c) 2024 Your Name
+Copyright (c) 2024 Your Name Milind
 ```
 
 
