@@ -2,7 +2,6 @@
 
 > **Enterprise-grade IoT monitoring platform with real-time analytics, ML-based anomaly detection, and predictive insights for industrial energy optimization**
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Application-blue?style=for-the-badge)](https://energymonitor-1.preview.emergentagent.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/yourusername/smart-energy-monitor)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
@@ -588,11 +587,7 @@ const developerProfile = {
 - **Performance**: No regressions in benchmarks
 - **Security**: Security review for all PRs
 
-### **Contact Information**
-- **📧 Email**: [your.email@domain.com](mailto:your.email@domain.com)
-- **💼 LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **🐱 GitHub**: [github.com/yourusername](https://github.com/yourusername)
-- **🌐 Portfolio**: [yourportfolio.com](https://yourportfolio.com)
+
 
 ---
 
@@ -604,11 +599,6 @@ MIT License - Open source and free for commercial use
 Copyright (c) 2024 Your Name
 ```
 
-### **Acknowledgments**
-- **🏭 Honeywell**: Inspiration for industrial automation excellence
-- **⚡ Energy Industry**: Sustainability and efficiency best practices
-- **🎓 Open Source Community**: Amazing tools and libraries
-- **👥 Beta Users**: Valuable feedback and feature requests
 
 ---
 
